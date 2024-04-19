@@ -2,6 +2,9 @@
 
 ![Distance Detector System](https://drive.google.com/uc?id=11RteDtgCxKBif4ACqKI966ETUhyY9II6)
 
+[Video Link](https://www.linkedin.com/posts/ahmed-abd-elgleel-95a675252_embeddedsystems-innovation-engineeringexcellence-activity-7120744744409870336-1Y5w?utm_source=share&utm_medium=member_desktop)
+
+
 ## System Overview
 This project implements a Distance Measurement System using the ATmega32 microcontroller with a frequency of 16MHz and the HC-SR04 ultrasonic sensor. It measures distances and displays them on a 2x16 LCD in centimeters using 4-bit data mode. The project follows a layered architecture model, consisting of GPIO, ICU, LCD, and Ultrasonic drivers.
 
